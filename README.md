@@ -7,7 +7,7 @@
 
 ## Sobre mi
 
-- :school: I am a `Junior` at web developer and designer web  ).
+- :school: I am a `Junior` at web developer and designer web.
 - ⌨️I love using Software as a solution for every `Problem`.
 - 📟 I’m currently learning `Data analysis` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
