@@ -3,8 +3,8 @@
 </div>
 <div align="center">
 <h1 align="center"> i´m <a href="https://portafolio-juan-diego.netlify.app/">web developer and designer web </a> 💻</h1>
+ <img src="https://drive.google.com/file/d/1l2xcU39SQB1EIqCou1mX4gItP-IO8A1F/view?usp=sharing" alt="Texto alternativo" />
 </div>
-![hola](https://drive.google.com/file/d/1l2xcU39SQB1EIqCou1mX4gItP-IO8A1F/view?usp=sharing)
 
 ## Sobre mi
 
