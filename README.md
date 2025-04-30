@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 <h1 align="center"> i´m <a href="https://portafolio-juan-diego.netlify.app/">web developer and designer web </a> 💻</h1>
- <img src="https://drive.google.com/file/d/1l2xcU39SQB1EIqCou1mX4gItP-IO8A1F/view?usp=sharing" alt="Texto alternativo" />
+ <img src="https://media.licdn.com/dms/image/v2/D5616AQEAkHK5YG9NDA/profile-displaybackgroundimage-shrink_350_1400/B56ZU_9_4WGoAg-/0/1740534973137?e=1751500800&v=beta&t=YO9O8LVScr-agmOTTQvwbAa6HALe-gVzo28AI8rH3iU" alt="Texto alternativo" />
 </div>
 
 ## Sobre mi
